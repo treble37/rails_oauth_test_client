@@ -1,0 +1,4 @@
+OAUTH_PROVIDER_URL: 'http://localhost:3000'
+OAUTH_TOKEN: ''
+OAUTH_SECRET: ''
+OAUTH_REDIRECT_URI: 'http%3A%2F%2Flocalhost%3A3001%2Foauth%2Fcallback'
