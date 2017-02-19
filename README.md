@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example repository of an OAuth test client.
 
-Things you may want to cover:
+A description of the setup in this repo can be found at -
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[http://www.binarywebpark.com/oauth-client-application-testing-rails/](http://www.binarywebpark.com/oauth-client-application-testing-rails/)
